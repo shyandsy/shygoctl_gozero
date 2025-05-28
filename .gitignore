@@ -1,1 +1,4 @@
 .idea
+test/**/*
+!test/api_specification.json
+!test/main.go
